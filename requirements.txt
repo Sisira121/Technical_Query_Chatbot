@@ -1,0 +1,12 @@
+requests
+json
+faiss-cpu
+numpy
+langchain
+langchain-community
+scikit-learn
+streamlit
+python-dotenv
+PyMuPDF
+sentence-transformers
+datetime
